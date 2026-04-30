@@ -1,7 +1,7 @@
-## 恢复访问
+## 修复Bug 添加变量访问
 针对不同类型壳子订阅使用的格式，提供两种格式部署脚本
-## TXT订阅格式请部署`worker.js`
-## M3U订阅格式请部署`workerm3u.js`
+## TXT订阅格式请部署`TXT`
+## M3U订阅格式请部署`m3u`
 ![图片1](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/10.jpg)
 ![图片2](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/11.jpg)
 ![图片3](https://raw.githubusercontent.com/5d5d5f5f5f/10102/main/12.jpg)
